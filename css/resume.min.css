@@ -258,3 +258,9 @@ a:hover {
 #news-summary:hover .overlay2{
     display: block;
 }
+
+.skills-icons {
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}

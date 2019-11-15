@@ -264,6 +264,29 @@ a:hover {
     display: block;
 }
 
+#blue-colar {
+    background-image: url(../img/bluecolar.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: auto;
+}
+
+.overlay3 {
+    background-color: rgba(0, 0, 0, .8);
+    height: 200px;
+}
+
+
+.overlay3 {
+    display:none;
+}
+
+#blue-colar:hover .overlay3{
+    display: block;
+}
+
 .skills-icons {
     height: 200px;
     width: 200px;

@@ -296,3 +296,8 @@ a:hover {
 .contact {
     font-size: 26px;
 }
+
+.pdf {
+    font-size: 60px;
+    color:red;
+}
